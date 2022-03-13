@@ -10,5 +10,5 @@
   <p align="center">
   <img src="https://user-images.githubusercontent.com/79332140/146628813-181f102a-669d-4b09-9132-deeefbeb4891.png"></img><br>
   <img src="https://media.discordapp.net/attachments/919392845775929385/921810781933305886/unknown.png"></img>
-  <p align="center">Current Status: <b>In Development</b></p>
+  <p align="center">Current Status: <b>Final</b></p>
 
