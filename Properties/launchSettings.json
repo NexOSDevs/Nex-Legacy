@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Nex": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false,
+      "nativeDebugging": false
+    }
+  }
+}
