@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Nex</h1>
 <p align="center"><b>A new Nex is in Development</b></p>
 <h3 align="center">What is Nex?</h3>
-<p align="center">Nex is a Open-source C# Operating System using libraries to make it work on physical/virtual hardware<br>
+<p align="center">Nex is a PoC (Proof of Concept) Open-source C# Operating System using libraries to make it work on physical/virtual hardware<br>
   You can make changes to it (on your copy only) and or add pull requests to fix/remove/add stuff to Nex Make sure to join our <a href="https://discord.gg/bZSsa6ma4w">Discord Server</a> for Community Updates and Insider Information<br>
   </p>
   <h3 align="center">What Libraries does Nex use?</h3>
